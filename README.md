@@ -6,5 +6,5 @@
 登陆界面：
 ![image](https://github.com/LanmeiSan/SSM_StuInfoManagement/blob/master/readmeImage/P2F_1BQINSL%25%5DF0VT)RDZGX.png)
 学生信息管理系统界面：
-![image](https://github.com/LanmeiSan/SSM_StuInfoManagement/blob/master/readmeImage/Y%7D6FA2F86Q3ER(_YT%60ERPRX.png)
+![image](https://raw.githubusercontent.com/LanmeiSan/SSM_StuInfoManagement/master/readmeImage/Y%7D6FA2F86Q3ER(_YT%60ERPRX.png)
 
